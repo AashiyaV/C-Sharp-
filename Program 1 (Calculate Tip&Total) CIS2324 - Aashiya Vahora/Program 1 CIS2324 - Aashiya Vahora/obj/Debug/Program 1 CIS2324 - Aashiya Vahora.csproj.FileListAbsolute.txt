@@ -1,0 +1,20 @@
+C:\Users\17375\source\repos\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\bin\Debug\Program 1 CIS2324 - Aashiya Vahora.exe.config
+C:\Users\17375\source\repos\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\bin\Debug\Program 1 CIS2324 - Aashiya Vahora.exe
+C:\Users\17375\source\repos\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\bin\Debug\Program 1 CIS2324 - Aashiya Vahora.pdb
+C:\Users\17375\source\repos\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program 1 CIS2324 - Aashiya Vahora.csproj.AssemblyReference.cache
+C:\Users\17375\source\repos\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program_1_CIS2324___Aashiya_Vahora.Form1.resources
+C:\Users\17375\source\repos\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program_1_CIS2324___Aashiya_Vahora.Properties.Resources.resources
+C:\Users\17375\source\repos\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program 1 CIS2324 - Aashiya Vahora.csproj.GenerateResource.cache
+C:\Users\17375\source\repos\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program 1 CIS2324 - Aashiya Vahora.csproj.CoreCompileInputs.cache
+C:\Users\17375\source\repos\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program 1 CIS2324 - Aashiya Vahora.exe
+C:\Users\17375\source\repos\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program 1 CIS2324 - Aashiya Vahora.pdb
+D:\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\bin\Debug\Program 1 CIS2324 - Aashiya Vahora.exe.config
+D:\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\bin\Debug\Program 1 CIS2324 - Aashiya Vahora.exe
+D:\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\bin\Debug\Program 1 CIS2324 - Aashiya Vahora.pdb
+D:\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program 1 CIS2324 - Aashiya Vahora.csproj.AssemblyReference.cache
+D:\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program_1_CIS2324___Aashiya_Vahora.Form1.resources
+D:\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program_1_CIS2324___Aashiya_Vahora.Properties.Resources.resources
+D:\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program 1 CIS2324 - Aashiya Vahora.csproj.GenerateResource.cache
+D:\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program 1 CIS2324 - Aashiya Vahora.csproj.CoreCompileInputs.cache
+D:\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program 1 CIS2324 - Aashiya Vahora.exe
+D:\Program 1 CIS2324 - Aashiya Vahora\Program 1 CIS2324 - Aashiya Vahora\obj\Debug\Program 1 CIS2324 - Aashiya Vahora.pdb
