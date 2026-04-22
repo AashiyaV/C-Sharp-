@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program 2 Internet Service Provider - Aashiya Vahora", "Program 2 Internet Service Provider - Aashiya Vahora\Program 2 Internet Service Provider - Aashiya Vahora.csproj", "{3A2D1938-9B58-4700-9A0A-2F2034756487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2D1938-9B58-4700-9A0A-2F2034756487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2D1938-9B58-4700-9A0A-2F2034756487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2D1938-9B58-4700-9A0A-2F2034756487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2D1938-9B58-4700-9A0A-2F2034756487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC44E330-C261-4AA3-B981-0A0006F21A4D}
+	EndGlobalSection
+EndGlobal
