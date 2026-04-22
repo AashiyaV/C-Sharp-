@@ -1,0 +1,10 @@
+D:\Program 3 CIS 2324 - Aashiya Vahora\bin\Debug\Program 3 CIS 2324 - Aashiya Vahora.exe.config
+D:\Program 3 CIS 2324 - Aashiya Vahora\bin\Debug\Program 3 CIS 2324 - Aashiya Vahora.exe
+D:\Program 3 CIS 2324 - Aashiya Vahora\bin\Debug\Program 3 CIS 2324 - Aashiya Vahora.pdb
+D:\Program 3 CIS 2324 - Aashiya Vahora\obj\Debug\Program 3 CIS 2324 - Aashiya Vahora.csproj.AssemblyReference.cache
+D:\Program 3 CIS 2324 - Aashiya Vahora\obj\Debug\Program_3_CIS_2324___Aashiya_Vahora.Form1.resources
+D:\Program 3 CIS 2324 - Aashiya Vahora\obj\Debug\Program_3_CIS_2324___Aashiya_Vahora.Properties.Resources.resources
+D:\Program 3 CIS 2324 - Aashiya Vahora\obj\Debug\Program 3 CIS 2324 - Aashiya Vahora.csproj.GenerateResource.cache
+D:\Program 3 CIS 2324 - Aashiya Vahora\obj\Debug\Program 3 CIS 2324 - Aashiya Vahora.csproj.CoreCompileInputs.cache
+D:\Program 3 CIS 2324 - Aashiya Vahora\obj\Debug\Program 3 CIS 2324 - Aashiya Vahora.exe
+D:\Program 3 CIS 2324 - Aashiya Vahora\obj\Debug\Program 3 CIS 2324 - Aashiya Vahora.pdb
