@@ -1,0 +1,10 @@
+D:\Program 5 CIS 2324 AutoShop - Aashiya Vahora\obj\Debug\Program 5 CIS 2324 AutoShop - Aashiya Vahora.csproj.AssemblyReference.cache
+D:\Program 5 CIS 2324 AutoShop - Aashiya Vahora\obj\Debug\Program_5_CIS_2324_AutoShop___Aashiya_Vahora.Form1.resources
+D:\Program 5 CIS 2324 AutoShop - Aashiya Vahora\obj\Debug\Program_5_CIS_2324_AutoShop___Aashiya_Vahora.Properties.Resources.resources
+D:\Program 5 CIS 2324 AutoShop - Aashiya Vahora\obj\Debug\Program 5 CIS 2324 AutoShop - Aashiya Vahora.csproj.GenerateResource.cache
+D:\Program 5 CIS 2324 AutoShop - Aashiya Vahora\obj\Debug\Program 5 CIS 2324 AutoShop - Aashiya Vahora.csproj.CoreCompileInputs.cache
+D:\Program 5 CIS 2324 AutoShop - Aashiya Vahora\bin\Debug\Program 5 CIS 2324 AutoShop - Aashiya Vahora.exe.config
+D:\Program 5 CIS 2324 AutoShop - Aashiya Vahora\bin\Debug\Program 5 CIS 2324 AutoShop - Aashiya Vahora.exe
+D:\Program 5 CIS 2324 AutoShop - Aashiya Vahora\bin\Debug\Program 5 CIS 2324 AutoShop - Aashiya Vahora.pdb
+D:\Program 5 CIS 2324 AutoShop - Aashiya Vahora\obj\Debug\Program 5 CIS 2324 AutoShop - Aashiya Vahora.exe
+D:\Program 5 CIS 2324 AutoShop - Aashiya Vahora\obj\Debug\Program 5 CIS 2324 AutoShop - Aashiya Vahora.pdb
