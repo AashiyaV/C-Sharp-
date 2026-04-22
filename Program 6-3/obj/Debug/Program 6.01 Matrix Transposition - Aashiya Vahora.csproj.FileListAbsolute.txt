@@ -1,0 +1,10 @@
+D:\Program 6.01 Matrix Transposition - Aashiya Vahora\bin\Debug\Program 6.01 Matrix Transposition - Aashiya Vahora.exe.config
+D:\Program 6.01 Matrix Transposition - Aashiya Vahora\bin\Debug\Program 6.01 Matrix Transposition - Aashiya Vahora.exe
+D:\Program 6.01 Matrix Transposition - Aashiya Vahora\bin\Debug\Program 6.01 Matrix Transposition - Aashiya Vahora.pdb
+D:\Program 6.01 Matrix Transposition - Aashiya Vahora\obj\Debug\Program 6.01 Matrix Transposition - Aashiya Vahora.csproj.AssemblyReference.cache
+D:\Program 6.01 Matrix Transposition - Aashiya Vahora\obj\Debug\Program_6._01_Matrix_Transposition___Aashiya_Vahora.Form1.resources
+D:\Program 6.01 Matrix Transposition - Aashiya Vahora\obj\Debug\Program_6._01_Matrix_Transposition___Aashiya_Vahora.Properties.Resources.resources
+D:\Program 6.01 Matrix Transposition - Aashiya Vahora\obj\Debug\Program 6.01 Matrix Transposition - Aashiya Vahora.csproj.GenerateResource.cache
+D:\Program 6.01 Matrix Transposition - Aashiya Vahora\obj\Debug\Program 6.01 Matrix Transposition - Aashiya Vahora.csproj.CoreCompileInputs.cache
+D:\Program 6.01 Matrix Transposition - Aashiya Vahora\obj\Debug\Program 6.01 Matrix Transposition - Aashiya Vahora.exe
+D:\Program 6.01 Matrix Transposition - Aashiya Vahora\obj\Debug\Program 6.01 Matrix Transposition - Aashiya Vahora.pdb

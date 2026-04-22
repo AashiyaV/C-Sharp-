@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program 7 IO Token - Aashiya Vahora", "Program 7 IO Token - Aashiya Vahora.csproj", "{942FA6BA-CB07-499D-A0ED-DD8EC7E45D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942FA6BA-CB07-499D-A0ED-DD8EC7E45D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942FA6BA-CB07-499D-A0ED-DD8EC7E45D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942FA6BA-CB07-499D-A0ED-DD8EC7E45D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942FA6BA-CB07-499D-A0ED-DD8EC7E45D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DDE227B-B865-4655-B4D6-A0DBACE799AD}
+	EndGlobalSection
+EndGlobal

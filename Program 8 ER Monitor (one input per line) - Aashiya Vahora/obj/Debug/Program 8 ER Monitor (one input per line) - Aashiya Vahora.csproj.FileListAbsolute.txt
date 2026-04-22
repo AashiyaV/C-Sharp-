@@ -1,0 +1,20 @@
+D:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\bin\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.exe.config
+D:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\bin\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.exe
+D:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\bin\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.pdb
+D:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.csproj.AssemblyReference.cache
+D:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program_8_ER_Monitor__one_input_per_line____Aashiya_Vahora.Form1.resources
+D:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program_8_ER_Monitor__one_input_per_line____Aashiya_Vahora.Properties.Resources.resources
+D:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.csproj.GenerateResource.cache
+D:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.csproj.CoreCompileInputs.cache
+D:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.exe
+D:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.pdb
+E:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\bin\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.exe.config
+E:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\bin\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.exe
+E:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\bin\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.pdb
+E:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.csproj.AssemblyReference.cache
+E:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program_8_ER_Monitor__one_input_per_line____Aashiya_Vahora.Form1.resources
+E:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program_8_ER_Monitor__one_input_per_line____Aashiya_Vahora.Properties.Resources.resources
+E:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.csproj.GenerateResource.cache
+E:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.csproj.CoreCompileInputs.cache
+E:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.exe
+E:\Program 8 ER Monitor (one input per line) - Aashiya Vahora\obj\Debug\Program 8 ER Monitor (one input per line) - Aashiya Vahora.pdb

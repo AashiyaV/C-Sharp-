@@ -1,0 +1,10 @@
+D:\Program 7 IO Token - Aashiya Vahora\bin\Debug\Program 7 IO Token - Aashiya Vahora.exe.config
+D:\Program 7 IO Token - Aashiya Vahora\bin\Debug\Program 7 IO Token - Aashiya Vahora.exe
+D:\Program 7 IO Token - Aashiya Vahora\bin\Debug\Program 7 IO Token - Aashiya Vahora.pdb
+D:\Program 7 IO Token - Aashiya Vahora\obj\Debug\Program 7 IO Token - Aashiya Vahora.csproj.AssemblyReference.cache
+D:\Program 7 IO Token - Aashiya Vahora\obj\Debug\Program_7_IO_Token___Aashiya_Vahora.Form1.resources
+D:\Program 7 IO Token - Aashiya Vahora\obj\Debug\Program_7_IO_Token___Aashiya_Vahora.Properties.Resources.resources
+D:\Program 7 IO Token - Aashiya Vahora\obj\Debug\Program 7 IO Token - Aashiya Vahora.csproj.GenerateResource.cache
+D:\Program 7 IO Token - Aashiya Vahora\obj\Debug\Program 7 IO Token - Aashiya Vahora.csproj.CoreCompileInputs.cache
+D:\Program 7 IO Token - Aashiya Vahora\obj\Debug\Program 7 IO Token - Aashiya Vahora.exe
+D:\Program 7 IO Token - Aashiya Vahora\obj\Debug\Program 7 IO Token - Aashiya Vahora.pdb
