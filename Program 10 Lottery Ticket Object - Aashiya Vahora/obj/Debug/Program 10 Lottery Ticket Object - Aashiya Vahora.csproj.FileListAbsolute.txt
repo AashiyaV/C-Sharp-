@@ -1,0 +1,10 @@
+D:\Program 10 Lottery Ticket Object - Aashiya Vahora\bin\Debug\Program 10 Lottery Ticket Object - Aashiya Vahora.exe.config
+D:\Program 10 Lottery Ticket Object - Aashiya Vahora\bin\Debug\Program 10 Lottery Ticket Object - Aashiya Vahora.exe
+D:\Program 10 Lottery Ticket Object - Aashiya Vahora\bin\Debug\Program 10 Lottery Ticket Object - Aashiya Vahora.pdb
+D:\Program 10 Lottery Ticket Object - Aashiya Vahora\obj\Debug\Program 10 Lottery Ticket Object - Aashiya Vahora.csproj.AssemblyReference.cache
+D:\Program 10 Lottery Ticket Object - Aashiya Vahora\obj\Debug\Program_10_Lottery_Ticket_Object___Aashiya_Vahora.Form1.resources
+D:\Program 10 Lottery Ticket Object - Aashiya Vahora\obj\Debug\Program_10_Lottery_Ticket_Object___Aashiya_Vahora.Properties.Resources.resources
+D:\Program 10 Lottery Ticket Object - Aashiya Vahora\obj\Debug\Program 10 Lottery Ticket Object - Aashiya Vahora.csproj.GenerateResource.cache
+D:\Program 10 Lottery Ticket Object - Aashiya Vahora\obj\Debug\Program 10 Lottery Ticket Object - Aashiya Vahora.csproj.CoreCompileInputs.cache
+D:\Program 10 Lottery Ticket Object - Aashiya Vahora\obj\Debug\Program 10 Lottery Ticket Object - Aashiya Vahora.exe
+D:\Program 10 Lottery Ticket Object - Aashiya Vahora\obj\Debug\Program 10 Lottery Ticket Object - Aashiya Vahora.pdb

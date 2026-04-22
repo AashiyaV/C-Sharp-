@@ -1,0 +1,17 @@
+C:\Users\17375\source\repos\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program 11 2 Forms - Aashiya Vahora.csproj.AssemblyReference.cache
+C:\Users\17375\source\repos\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program_11_2_Forms___Aashiya_Vahora.Form1.resources
+C:\Users\17375\source\repos\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program_11_2_Forms___Aashiya_Vahora.Form2.resources
+C:\Users\17375\source\repos\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program_11_2_Forms___Aashiya_Vahora.Properties.Resources.resources
+C:\Users\17375\source\repos\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program 11 2 Forms - Aashiya Vahora.csproj.GenerateResource.cache
+C:\Users\17375\source\repos\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program 11 2 Forms - Aashiya Vahora.csproj.CoreCompileInputs.cache
+D:\Program 11 2 Forms - Aashiya Vahora\bin\Debug\Program 11 2 Forms - Aashiya Vahora.exe.config
+D:\Program 11 2 Forms - Aashiya Vahora\bin\Debug\Program 11 2 Forms - Aashiya Vahora.exe
+D:\Program 11 2 Forms - Aashiya Vahora\bin\Debug\Program 11 2 Forms - Aashiya Vahora.pdb
+D:\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program 11 2 Forms - Aashiya Vahora.csproj.AssemblyReference.cache
+D:\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program_11_2_Forms___Aashiya_Vahora.Form1.resources
+D:\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program_11_2_Forms___Aashiya_Vahora.Form2.resources
+D:\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program_11_2_Forms___Aashiya_Vahora.Properties.Resources.resources
+D:\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program 11 2 Forms - Aashiya Vahora.csproj.GenerateResource.cache
+D:\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program 11 2 Forms - Aashiya Vahora.csproj.CoreCompileInputs.cache
+D:\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program 11 2 Forms - Aashiya Vahora.exe
+D:\Program 11 2 Forms - Aashiya Vahora\obj\Debug\Program 11 2 Forms - Aashiya Vahora.pdb
